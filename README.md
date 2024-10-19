@@ -57,9 +57,9 @@ This project integrates Google Generative AI to generate and execute Windows Com
 4. **Exit the script**:  
     Type `exit` or `quit` to terminate the program.
 
-**Examples**
-`YOU> run mysql on xampp as root user without pwd
-Cleaned Command: '"C:\xampp\mysql\bin\mysql.exe" -u root'`
+**Examples**:
+`YOU> run mysql on xampp as root user `
+`Cleaned Command: '"C:\xampp\mysql\bin\mysql.exe" -u root'`
 ## AI Assistance and Accuracy Limitations
 
 **Note**: This code was created with significant help from AI. While the initial logic and structure were provided by the AI, the final implementation and adjustments were made manually. Using AI accelerated the development process and provided useful insights.
