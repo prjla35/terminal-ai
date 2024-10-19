@@ -57,13 +57,6 @@ This project integrates Google Generative AI to generate and execute Windows Com
 4. **Exit the script**:  
     Type `exit` or `quit` to terminate the program.
 
-## Example
-
-**Input**:
-
-**Generated Command**:
-
-**Output**:
 
 ## AI Assistance and Accuracy Limitations
 
