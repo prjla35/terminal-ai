@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/windows-ai-command-executor.git
+git clone https://github.com/prjla35/terminal-ai
 cd windows-ai-command-executor
 Install required dependencies:
 
